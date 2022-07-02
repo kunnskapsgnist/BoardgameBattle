@@ -11,10 +11,10 @@
   [27173,"Vikings",2007,"2 - 4",6.933,"Michael Kiesling","German",5],
   [169786,"Scythe",2016,"1 - 5",8.064,"Jamey Stegmaier","American",0],
   [478,"Citadels",2000,"2 - 8",6.971,"Bruno Faidutti","French",0],
-  [84876,"The Castles of Burgundy",2011,"2 - 4",8.008,"Stefan Feld","German",0],
+  [84876,"The Castles of Burgundy",2011,"2 - 4",8.008,"Stefan Feld","German",13],
   [34635,"Stone Age",2008,"2 - 4",7.443,"Bernd Brunnhofer","Austrian",0],
   [65244,"Forbidden Island",2010,"2 - 4",6.690,"Matt Leacock","American",0],
-  [120677,"Terra Mystica",2012,"2 - 5",7.972,"J Drögemüller, H Ostertag","German",0],
+  [120677,"Terra Mystica",2012,"2 - 5",7.972,"J Drögemüller, H Ostertag","German",13],
   [131357,"Coup",2012,"2 - 6",6.872,"Rikki Tahta","",0],
   [41114,"The Resistance",2009,"5 - 10",7.139,"Don Eskridge","American",0],
   [183394,"Viticulture Essential Edition",2015,"1 - 6",7.896,"J Stegmaier, A Stone","American",0],
@@ -36,7 +36,6 @@
   [100901,"Flash Point: Fire Rescue",2011,"2 - 6",7.040,"Kevin Lanzing","American",0],
   [171623,"The Voyages of Marco Polo",2015,"2 - 4",7.646,"S Luciani, D Tascini","Italian",0],
   [28720,"Brass: Lancashire",2007,"2 - 4",7.963,"Martin Wallace","English",0],
-  [2993,"Carcassonne: Expansion 1 - Inns & Cathedrals",2002,"2 - 6",7.412,"Klaus-Jürgen Wrede","German",0],
   [161970,"Alchemists",2014,"2 - 4",7.452,"Matus Kotry","Slovak",0],
   [54998,"Cyclades",2009,"2 - 5",7.300,"B Cathala, L Maublanc","French",0],
   [21790,"Thurn and Taxis",2006,"2 - 4",6.948,"A Seyfarth, K Seyfarth","German",0],
@@ -47,6 +46,7 @@
   [163967,"Tiny Epic Galaxies",2015,"1 - 5",7.151,"Scott Almes","American",0],
   [258,"Fluxx",1997,"2 - 6",5.565,"A Looney, K Looney","American",0],
   [224037,"Codenames: Duet",2017,"2",7.337,"V Chvàtil, S Eaton","Czech ",0],
-  [5405,"Carcassonne: Expansion 2 - Traders & Builders",2003,"2 - 6",7.358,"Klaus-Jürgen Wrede","German",0],
-  [63888,"Innovation",2010,"2 - 4",7.075,"Carl Chudyk","",0]
+  [63888,"Innovation",2010,"2 - 4",7.075,"Carl Chudyk","",0],
+  [172287,"Champions of Midgard",2015,"2 - 4",7.754,"Ole Steiness","",0],
+  [263918,"Cartographers",2019,"1 - 100",7.468,"Jordy Adan","Brazilian",0]
 ]
